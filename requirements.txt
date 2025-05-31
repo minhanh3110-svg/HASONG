@@ -6,4 +6,6 @@ Flask-Bcrypt==1.0.1
 Flask-Migrate==4.0.5
 python-dotenv==1.0.1
 pymongo==4.6.2
-Werkzeug==3.0.1 
+Werkzeug==3.0.1
+SQLAlchemy==2.0.28
+gunicorn==21.2.0 
